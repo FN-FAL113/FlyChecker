@@ -1,0 +1,6 @@
+name: FlyChecker
+version: 1.0-SNAPSHOT
+main: me.fnfal113.flychecker.FlyChecker
+api-version: 1.17
+authors: [ FN_FAL113 ]
+description: Checker for IslandFly
