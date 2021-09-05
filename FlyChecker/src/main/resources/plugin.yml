@@ -4,3 +4,7 @@ main: me.fnfal113.flychecker.FlyChecker
 api-version: 1.17
 authors: [ FN_FAL113 ]
 description: Checker for IslandFly
+commands:
+  flychecker:
+    description: Check whether player has fly permission if not fly state will be removed.
+    permission: flychecker.flycheck
