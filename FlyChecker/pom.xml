@@ -6,7 +6,7 @@
 
     <groupId>me.fnfal113</groupId>
     <artifactId>FlyChecker</artifactId>
-    <version>1.1-BetaReleaseFN</version>
+    <version>1.2-ReleaseFN</version>
     <packaging>jar</packaging>
 
     <name>FlyChecker</name>
