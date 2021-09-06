@@ -1,6 +1,7 @@
 # FlyChecker
-Checks if player has a fly permission if not fly state will be removed. Designed to work with LuckPerms by means of setting a expiry on a permission. Can even act as am anti-flyhack for servers.
+Checks if player has a fly permission if not fly state will be removed. Designed to work with LuckPerms or any Permission manager plugin by means of setting a expiry on a fly permission or if you want to give players temporary fly with a permission that has a expiry. Can even act as an anti-flyhack for servers.
 
+Works with CMI or Essentials together with Skyblock (Bentobox Island Fly addon).
 
 ### **Permissions:**
         flychecker.flycheck - admin permission, allows you to perform the following command: 
