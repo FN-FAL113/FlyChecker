@@ -3,7 +3,7 @@ version: ${project.version}
 main: me.fnfal113.flychecker.FlyChecker
 api-version: 1.17
 authors: [ FN_FAL113 ]
-description: Checker for permission based fly plugin
+description: Checker for permission based fly plugin (Works with LuckPerms and CMI or Essentials). It can also act as an anti-flyhack to prevent hackers from flying without the needed permission.
 commands:
   flychecker:
     description: Check whether player has fly permission if not fly state will be removed.

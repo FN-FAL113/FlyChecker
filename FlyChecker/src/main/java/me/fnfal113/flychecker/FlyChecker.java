@@ -14,6 +14,8 @@ public final class FlyChecker extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
+        getConfig().options().copyDefaults();
+        saveDefaultConfig();
 
         System.out.println("IslandFlyChecker has started.\nThis small plugin was developed by FN_FAL113");
 
