@@ -1,5 +1,5 @@
 # FlyChecker
-Checks if player has a fly permission if not fly state will be removed. Designed to work with LuckPerms by means of setting a expiry on a permission.
+Checks if player has a fly permission if not fly state will be removed. Designed to work with LuckPerms by means of setting a expiry on a permission. Can even act as am anti-flyhack for servers.
 
 
 ### **Permissions:**
